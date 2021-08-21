@@ -1,0 +1,15 @@
+body * {
+  text-transform: capitalize;
+}
+.row > div:first-of-type {
+  margin-top: 25px;
+}
+form > div {
+  margin: 25px auto;
+}
+div.post-single {
+  padding: 25px;
+  margin: 25px auto;
+  box-shadow: 1px 1px 3px #ddd, -1px -1px 3px #ddd;
+  border-radius: 30px;
+}
